@@ -1,0 +1,132 @@
+[
+  {
+    "fullname": "John Doe 1",
+    "eid": "1234",
+    "classes": [
+      "Sala 1",
+      "Sala 2",
+      "Sala 3",
+      "Sala 4",
+      "Sala 5",
+      "Sala 6"
+    ],
+    "adresses": [
+      {
+        "type": "phone",
+        "tags": [
+          "Responsável",
+          "Mãe"
+        ],
+        "adress": "551138839332"
+      },
+      {
+        "type": "email",
+        "tags": [
+          "Mãe"
+        ],
+        "adress": "johndoemae1@gmail.com"
+      },
+      {
+        "type": "email",
+        "tags": [
+          "Aluno"
+        ],
+        "adress": "johndoealuno1@gmail.com"
+      },
+      {
+        "type": "email",
+        "tags": [
+          "Responsável",
+          "Pai"
+        ],
+        "adress": "johndoepai2@gmail.com"
+      },
+      {
+        "type": "email",
+        "tags": [
+          "Responsável",
+          "Pai"
+        ],
+        "adress": "johndoepai3@gmail.com"
+      },
+      {
+        "type": "phone",
+        "tags": [
+          "Pai"
+        ],
+        "adress": "5519985504400"
+      },
+      {
+        "type": "phone",
+        "tags": [
+          "Responsável",
+          "Mãe"
+        ],
+        "adress": "551138839333"
+      }
+    ],
+    "invisible": true,
+    "seeAll": false,
+    "see_all": true
+  },
+  {
+    "fullname": "Mary Doe 2",
+    "eid": "1235",
+    "classes": [
+      "Sala 1"
+    ],
+    "adresses": [
+      {
+        "type": "email",
+        "tags": [
+          "Responsável",
+          "Pai"
+        ],
+        "adress": "marydoe1@gmail.com"
+      }
+    ],
+    "invisible": false,
+    "seeAll": false
+  },
+  {
+    "fullname": "Victor Doe 3",
+    "eid": "1236",
+    "classes": [
+      "Sala 6",
+      "Sala 7"
+    ],
+    "adresses": [
+      {
+        "type": "email",
+        "tags": [
+          "Responsável",
+          "Pai"
+        ],
+        "adress": "victordoepai1@hotmail.com"
+      },
+      {
+        "type": "email",
+        "tags": [
+          "Mãe"
+        ],
+        "adress": "victordoe3@gmail.com"
+      },
+      {
+        "type": "email",
+        "tags": [
+          "Aluno"
+        ],
+        "adress": "victordoe3@gmail.com"
+      },
+      {
+        "type": "phone",
+        "tags": [
+          "Aluno"
+        ],
+        "adress": "551974430033"
+      }
+    ],
+    "invisible": false,
+    "seeAll": false
+  }
+]
